@@ -34,3 +34,6 @@ Thumbs.db
 Desktop.ini
 .DS_Store
 __pycache__
+
+docker/shared
+docker/tempo-data

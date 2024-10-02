@@ -1,9 +1,0 @@
-2024-10-02 02:00:22 startup archives unpack
-2024-10-02 02:00:22 install fzf:arm64 <none> 0.24.3-1+b6
-2024-10-02 02:00:22 status half-installed fzf:arm64 0.24.3-1+b6
-2024-10-02 02:00:22 status unpacked fzf:arm64 0.24.3-1+b6
-2024-10-02 02:00:22 startup packages configure
-2024-10-02 02:00:22 configure fzf:arm64 0.24.3-1+b6 <none>
-2024-10-02 02:00:22 status unpacked fzf:arm64 0.24.3-1+b6
-2024-10-02 02:00:22 status half-configured fzf:arm64 0.24.3-1+b6
-2024-10-02 02:00:22 status installed fzf:arm64 0.24.3-1+b6
